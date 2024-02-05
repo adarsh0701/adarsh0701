@@ -1,4 +1,7 @@
 <h1 align="center"> Hi 👋, I'm Adarsh Mishra<h1/>
+<h1> A passionate </h1>
+  <a href="https://git.io/typing-svg"  ><img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=2000&pause=1000&color=21EBF7&vCenter=true&repeat=true&random=false&width=591&height=43&lines=MERN+Stack+Developer;Software+Consultant+at+PwC;Software+Engineer" alt="Typing SVG" />
+	</a>
 
 
 <div align="center">
