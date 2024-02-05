@@ -1,4 +1,4 @@
-<h1 align="center">### Hi 👋, I'm Adarsh Mishra<h1/>
+<h1 align="center"> Hi 👋, I'm Adarsh Mishra<h1/>
 
 <div align="center">
   <h1>Skills</h1>
